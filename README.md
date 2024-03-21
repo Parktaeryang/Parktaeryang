@@ -1,15 +1,14 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=개발백서&section=header&reversal=true&textBg=false&fontAlign=50&fontSize=42)
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+
+[![Parktaeryang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parktaeryang)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+qkrxofid](http://mazassumnida.wtf/api/generate_badge?boj=qkrxofid)](https://solved.ac/qkrxofid)
+
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -47,3 +46,5 @@
 <img src="https://raw.githubusercontent.com/Parktaeryang/Parktaeryang/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparktaeryang&count_bg=%23E59E38&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
