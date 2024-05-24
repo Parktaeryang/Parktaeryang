@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DevR&section=header&reversal=true&textBg=false&fontAlign=50&fontSize=42)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello&section=header&reversal=true&textBg=false&fontAlign=50&fontSize=42)
 
 </div>
 
