@@ -9,13 +9,7 @@
 
 ---
 
-<div align="left">
 
-[![Parktaeryang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parktaeryang)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-qkrxofid](http://mazassumnida.wtf/api/generate_badge?boj=qkrxofid)](https://solved.ac/qkrxofid)
-
-</div>
 
 <div align="center">
    
